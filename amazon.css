@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    background-image:url(amazon_logo.png);
+    background-image:url(./assets/amazon_logo.png);
     background-size:cover;
     width: 100%;
     height: 50px;
@@ -104,7 +104,7 @@
     width: 65px;
 }
 .flag-icon{
-    background-image: url(flagg.png);
+    background-image: url(./assets/flagg.png);
     background-size: cover;
     height: 15px;
     width:66px;
@@ -217,7 +217,7 @@ span{
         /* **HERO SECTION ** */
 
 .hero-section{
-    background-image: url(hero_sectionbg.jpg);
+    background-image: url(./assets/hero_sectionbg.jpg);
     height: 300px;
     background-size: cover;
     display: flex;
@@ -389,7 +389,7 @@ h4{
     top: 10px;
     width: 100px;
     height: 69px;
-    background-image: url(amazon_logo.png);
+    background-image: url(./assets/amazon_logo.png);
     background-size: contain;
     padding: 0 7.2px 0px 7.2px;
 }
