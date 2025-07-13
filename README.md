@@ -15,7 +15,7 @@ To view the Amazon Home Page Clone, follow these steps:
 2. Open the `amazon.html` file in your web browser.
 
 You'll be able to explore the replica of Amazon home page and see how it was put together using HTML and CSS.
-**Don't forget to star the repository if you find it useful or interesting!
+**Don't forget to star the repository if you find it useful or interesting !
 
 ## Preview HomePage
 
