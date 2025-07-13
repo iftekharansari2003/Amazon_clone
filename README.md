@@ -5,7 +5,7 @@ This project is a replica of the Amazon home page, created using HTML and CSS. I
 ## Features
 
 - **Visual Clone**: This project closely resembles the layout and design of the Amazon home page, making it a great exercise for web development enthusiasts.
-- **HTML and CSS**: The clone is built entirely with HTML and CSS, making it accessible for beginners to understand and modify .
+- **HTML and CSS**: The clone is built entirely with HTML and CSS, making it accessible for beginners to understand and modify.
 
 ## How to View
 
