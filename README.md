@@ -17,7 +17,7 @@ To view the Amazon Home Page Clone, follow these steps:
 You'll be able to explore the replica of Amazon home page and see how it was put together using HTML and CSS.
 **Don't forget to star the repository if you find it useful or interesting!
 
-## Preview HomePage
+## Preview HomePage 
 
 ![preview.png](./assets/Preview.png?raw=true)
 
